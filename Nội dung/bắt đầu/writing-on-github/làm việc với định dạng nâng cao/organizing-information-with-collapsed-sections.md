@@ -1,15 +1,15 @@
----
+Trunghoang
 title: Organizing information with collapsed sections
 intro: 'You can streamline your Markdown by creating a collapsed section with the `<details>` tag.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: Trunghoang #
+  ghes: Trunghoang #
+  ghae: Trunghoang #
+  ghec: Trunghoang #
   redirect_from:   
     - /github/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
 
-shortTitle: Collapsed sections
+shortTitle: Collapsed sections***
 ---
 ## Creating a collapsed section
 
