@@ -7,9 +7,9 @@ redirect_from:
   - /github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request
   - /github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+  fpt: 'Trunghoang*'
+  ghes: 'Trunghoang*'
+  g
   ghec: '*'
 topics:
   - Pull requests
